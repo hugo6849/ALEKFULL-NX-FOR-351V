@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Nihon Bussan Co., Ltd. (Nihon Bussan Kabushikigaisha) era uma fabricante japonesa de videogames. A empresa tinha sua sede em Kita-ku, Osaka. A principal marca de videogames da empresa era o Nichibutsu. A empresa usa uma coruja com chifres para o seu logotipo oficial.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Nihon Bussan Co., Ltd. (Nihon Bussan Kabushikigaisha) was a Japanese video game manufacturer. The company had its headquarters in Kita-ku, Osaka. The main video game brand of the company was Nichibutsu. The company uses a horned owl for its official logo.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Nihon Bussan Co., Ltd. (Nihon Bussan Kabushikigaisha) fue un japonés de juegos de video. La empresa tenía su sede en Kita-ku, Osaka. El principal videojuego de la compañía fue Nichibutsu. The company uses a horned owl para su oficial pronto.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Nihon Bussan Co., Ltd (Nihon Bussan Kabushikigaisha) était un fabricant japonais de jeux vidéo. La société avait son siège à Kita-ku, Osaka. La principale marque de jeux vidéo de la société était Nichibutsu. La société utilise un hibou à cornes pour son logo officiel.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nichibutsu</text>
+		</text>
+	</view>
+</theme>

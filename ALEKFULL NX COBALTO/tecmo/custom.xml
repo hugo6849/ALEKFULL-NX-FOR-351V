@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Tecmo é uma companhia fundada em 1967 como fornecedora de equipamento de limpeza. Em 1969, ela começou a vender equipamento de diversão. Em 8 de janeiro de 1986, a Tehkan passou a se chamar oficialmente Tecmo.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Tecmo is a company founded in 1967 as a supplier of cleaning equipment. In 1969, she started selling amusement equipment. On January 8, 1986, Tehkan officially became Tecmo.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Tecmo es una compañía fundada en 1967 como proveedora de equipo de limpieza. En 1969, comenzó a vender equipo de diversión. El 8 de enero de 1986, Tehkan pasó a llamarse oficialmente a Tecmo.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Tecmo est une entreprise fondée en 1967 en tant que fournisseur d'équipements de nettoyage. En 1969, elle a commencé à vendre des équipements de divertissement. Le 8 janvier 1986, Tehkan est officiellement devenu Tecmo.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Tecmo</text>
+		</text>
+	</view>
+</theme>

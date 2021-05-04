@@ -1,0 +1,12 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Jogos originais, traduzidos para o português, do primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Sony PlayStation (BR)</text>
+		</text>
+	</view>
+</theme>

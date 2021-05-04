@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Midway Games foi uma empresa norte-americana de video games. Ela é mais conhecida por ter criado franquias como Spy Hunter, Mortal Kombat, NBA Hangtime, San Francisco Rush: Extreme Racing e Cruis'n.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Midway Games was a North American video game company. She is best known for creating franchises like Spy Hunter, Mortal Kombat, NBA Hangtime, San Francisco Rush: Extreme Racing and Cruis'n.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Midway Games fue una empresa norteamericana de videojuegos. Ella es más conocida por haber creado franquicias como Spy Hunter, Mortal Kombat, NBA Hangtime, San Francisco Rush: Extreme Racing y Cruis'n.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Midway Games était une société de jeux vidéo nord-américaine. Elle est surtout connue pour avoir créé des franchises comme Spy Hunter, Mortal Kombat, Hangzhou NBA, San Francisco Rush: Extreme Racing et Cruis'n.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Midway</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>O Sega Mark III é um console de videogame criado pela Sega. É o sucessor do antigo SG-1000 da Sega e foi lançado em outubro de 1985 no Japão.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>The Sega Mark III is a video game console created by Sega. It is the successor to Sega's earlier SG-1000, and was released in October 1985 in Japan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>El Sega Mark III es una consola de videojuegos creada por Sega. Es el sucesor del anterior SG-1000 de Sega, y se lanzó en octubre de 1985 en Japón.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>La Sega Mark III est une console de jeu vidéo créée par Sega. C'est le successeur du SG-1000 de Sega, sorti en octobre 1985 au Japon.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Mark III</text>
+		</text>
+	</view>
+</theme>

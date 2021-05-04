@@ -1,0 +1,217 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/ovdk.png</path>
+         <zIndex>41</zIndex>
+      </image>
+	  
+	  
+      <helpsystem name="help">
+         <textColor>cbcbcb</textColor>
+         <iconColor>FFFFFF</iconColor>
+		 <pos>0.53 0.942</pos>
+		 <fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+		 <fontSize>0.0215</fontSize>
+      </helpsystem>	 
+	  
+      <text name="systemInfo">
+         <alignment>left</alignment>
+         <pos>0.13 0.924</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>cbcbcb</color>
+         <fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+	     <fontSize>0.0215</fontSize>         
+      </text>	  
+</view>
+
+  <view name="menu">
+	<menuText name="menufooter">
+		<color>777777FF</color>
+	</menuText>
+	<menuText name="menutext"> 
+		<color>DFDCDC</color>
+		<separatorColor>222222</separatorColor>
+		<selectorColor>0293ab</selectorColor>
+		<selectedColor>FFFFFF</selectedColor>
+	</menuText>
+	<menuTextSmall name="menutextsmall">
+		<color>deec00</color>
+	</menuTextSmall>
+	<menuText name="menutitle">
+		<color>DFECFA</color>
+	</menuText>
+	<menuBackground name="menubg">
+	    <color>646567</color>
+		<path>./../_inc/back.png</path>
+		<fadePath>./../_inc/fade.png</fadePath>
+	</menuBackground>
+</view>
+
+  <view name="basic">
+      <image name="logo">
+		<pos>0.14 0.925</pos>
+		<maxSize>0.10 0.10</maxSize>
+		<path>./../assets/logos2/$system.png</path>
+      </image>
+	  
+      <helpsystem name="help">
+         <fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+         <fontSize>0.0215</fontSize>     
+         <pos>0.30 0.942</pos>      
+         <textColor>636363</textColor>
+      </helpsystem>
+	  
+      <textlist name="gamelist">
+         <pos>0.084 0.12</pos>
+         <size>0.345 0.75</size>
+         <selectorColor>403c3e</selectorColor>
+         <selectedColor>ffffff</selectedColor>
+         <primaryColor>ffffff</primaryColor>
+         <secondaryColor>ffffff</secondaryColor>
+         <fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+         <fontSize>0.023</fontSize>
+         <alignment>left</alignment>
+		 <lineSpacing>2.075</lineSpacing>
+		 <zIndex>42</zIndex>
+      </textlist>
+	  
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./../_inc/basic2.png</path>
+		 <zIndex>41</zIndex>
+      </image>
+
+      <image name="art" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/$system.jpg</path>
+      </image>     
+   </view>  
+ 
+   <view name="detailed">
+      <image name="logo">
+		<pos>0.14 0.925</pos>
+		<maxSize>0.10 0.10</maxSize>
+		<path>./../assets/logos2/$system.png</path>
+      </image>
+	  
+      <helpsystem name="help">
+         <fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+         <fontSize>0.0215</fontSize>     
+         <pos>0.30 0.942</pos>      
+         <textColor>636363</textColor>
+      </helpsystem>	  
+	
+      <textlist name="gamelist">
+         <pos>0.084 0.12</pos>
+         <size>0.345 0.75</size>
+         <selectorColor>403c3e</selectorColor>
+         <selectedColor>ffffff</selectedColor>
+         <primaryColor>ffffff</primaryColor>
+         <secondaryColor>ffffff</secondaryColor>
+         <fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+         <fontSize>0.023</fontSize>
+         <alignment>left</alignment>
+		 <lineSpacing>2.075</lineSpacing>
+		 <zIndex>42</zIndex>
+      </textlist>
+
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./../_inc/default-detailed2.png</path>
+		 <zIndex>41</zIndex>
+      </image>
+
+      <image name="art" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540p/$system.jpg</path>
+      </image>
+	  
+      <text name="md_publisher, md_playcount, md_players">
+         <pos>2 2</pos> <size>0 0</size>
+         <fontSize>0.0</fontSize>
+         <zIndex>0</zIndex>
+      </text>
+  
+		
+	  <datetime name="md_lastplayed">
+	  <pos>2 2</pos>
+		<fontSize>0.00</fontSize>
+		<size>0 0</size><zIndex>0</zIndex>
+	</datetime>
+	
+      <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+         <pos>2 2</pos>
+         <size>0 0</size>
+		 <fontSize>0.0</fontSize>
+		 <zIndex>0</zIndex>
+      </text>
+
+		<datetime name="md_releasedate">
+			<pos>0.855 0.676</pos>
+			<color>726f70</color>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<zIndex>51</zIndex> 
+		</datetime>
+
+		<text name="md_developer">
+			<size>0.200 0.037</size>
+			<pos>0.53 0.676</pos>
+			<fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<color>726f70</color>
+			<alignment>center</alignment>
+			<zIndex>51</zIndex> 
+		</text>
+	  
+	  		<text name="md_genre">
+			<pos>0.51 0.632</pos>
+			<size>0.220 0.034</size>
+			<fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<color>726f70</color>
+			<alignment>center</alignment>
+			<zIndex>51</zIndex>
+		</text>
+	  
+		<rating name="md_rating">
+			<pos>0.863 0.632</pos>
+			<size>0.028 0.028</size>
+			<filledPath>./../_inc/images/star_filled.svg</filledPath>
+			<unfilledPath>./../_inc/images/star_empty.svg</unfilledPath>
+			<zIndex>51</zIndex>
+		</rating>
+		
+		<text name="md_description">
+			<color>726f70</color>
+			<fontPath>./../_inc/fonts/Oxygen-Regular.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<size>0.43 0.19</size>
+			<pos>0.51 0.720</pos>
+			<zIndex>51</zIndex>
+		</text>
+	  
+		<image name="md_image">
+			<pos>0.737 0.335</pos>
+			<maxSize>0.586 0.576</maxSize>
+			<origin>0.5 0.5</origin>
+			<zIndex>51</zIndex>
+		</image>      
+   </view>
+ 
+</theme>

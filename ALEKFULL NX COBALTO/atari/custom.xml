@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Atari, Inc. é uma empresa de produtos eletrônicos,fundada em 1972 por Nolan Bushnell e Ted Dabney. Foi uma das principais responsáveis pela popularização dos Video games</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Atari, Inc. is an electronics company founded in 1972 by Nolan Bushnell and Ted Dabney. He was one of the main responsible for the popularization of Video games</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Atari, Inc. es una empresa de productos electrónicos, fundada en 1972 por Nolan Bushnell y Ted Dabney. Fue una de las principales responsables de la popularización de los videojuegos</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Atari, Inc. est une société d’électronique créée en 1972 par Nolan Bushnell et Ted Dabney. Il était l'un des principaux responsables de la vulgarisation des jeux vidéo</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari</text>
+		</text>
+	</view>
+</theme>

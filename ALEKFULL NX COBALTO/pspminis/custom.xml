@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Também conhecido pela sigla PS Minis, É um console portátil de videogames da família PlayStation desenvolvido pela Sony Computer Entertainment.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Also known by the acronym PS Minis, is a portable console of video games of the family PlayStation developed by Sony Computer Entertainment.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>También conocido por la sigla PS Minis, Es una consola portátil de videojuegos de la familia PlayStation desarrollado por Sony Computer Entertainment.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Aussi connu sous l'acronyme PS Minis, est une console portable de jeux vidéo de la famille PlayStation développée par Sony Computer Entertainment.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Sony PlayStation Portable</text>
+		</text>
+	</view>
+</theme>

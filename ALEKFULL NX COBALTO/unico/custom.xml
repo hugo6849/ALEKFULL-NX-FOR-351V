@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Unico Electronics Co., Ltd. é uma fabricante coreana de videogames, incluindo o lançamento em 1999 de "The Legend of Silk Road".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Unico Electronics Co., Ltd. is a Korean video game maker, including the 1999 release of "The Legend of Silk Road."</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Unico Electronics Co., Ltd. es un fabricante coreano de videojuegos, incluyendo el lanzamiento en 1999 de "The Legend of Silk Road".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Unico Electronics Co., Ltd. est un fabricant de jeux vidéo coréen, qui a notamment publié en 1999 "The Legend of Silk Road".</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Unico</text>
+		</text>
+	</view>
+</theme>
